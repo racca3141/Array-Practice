@@ -3,6 +3,7 @@
 Write three (3) for loop statements in the main that perform the following one-dimensional array operations on a 10-element integer array called a. That is,
 
 const int size = 10;
+
 int a[size];
 
 1. In a for loop, populate each element to 5. Print the array.
@@ -11,7 +12,9 @@ int a[size];
 
 
 Write three (3) more for loop statements in the main. Declare another array to hold doubles called b:
+
 const int n = 100;
+
 double b[n];
 
 4. In a for loop, populate this array b with the decimals {0.2, 0.4, 0.6, 0.8,...}. Print the array.
