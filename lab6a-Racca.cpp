@@ -71,11 +71,8 @@ int main(void) {
 
 	for (int i = 0; i < size; i++) {
 		a[i] = i * 5;
-	};
-
-	for (int i = 0; i < size; i++) {
 		cout << "a[" << i << "] = " << a[i] << endl;
-	}
+	};
 
 	cout << endl << endl;
 
